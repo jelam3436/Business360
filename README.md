@@ -3,16 +3,22 @@ The Business360 Dashboard is an interactive Power BI solution designed to provid
 The dashboard enables data-driven decision-making by consolidating critical KPIs into one centralized location.
 
 Key Feature: 
+
 -->Home Page
 A high-level summary page that links to all functional views and serves as a control panel for navigating the dashboard.
+
 -->Finance View
 Visualizes financial health through key metrics like revenue, profit margins, expenses, and trends over time.
+
 -->Sales View
 Displays sales performance by region, product, and time period. Enables sales tracking and comparison using dynamic filters.
+
 -->Marketing View
 Tracks campaign effectiveness, lead generation, conversion rates, and customer engagement KPIs.
+
 -->Supply Chain View
 Monitors inventory levels, supplier performance, delivery times, and operational efficiency metrics.
+
 -->Executive View
 Consolidates strategic metrics across departments for leadership, with key trends, performance summaries, and alerts.
 
